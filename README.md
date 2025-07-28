@@ -72,7 +72,7 @@ The solution is implemented in a **Jupyter Notebook** (`template.ipynb`). The co
 ## How to Run the Code
 
 1. Clone the repository.
-2. Ensure `solvers.py` is in the same directory as `template.ipynb`.
-3. Open and run `template.ipynb` in a Jupyter Notebook environment with the required Python libraries.
+2. Ensure `solvers.py` is in the same directory as `solution.ipynb`.
+3. Open and run `solution.ipynb` in a Jupyter Notebook environment with the required Python libraries.
 
 ---
